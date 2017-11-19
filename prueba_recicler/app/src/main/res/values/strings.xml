@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Proyecto Android 2017</string>
+    <string name="login_button">Ingresar</string>
+    <string name="register_button">Registrarse</string>
+    <string name="text_empresa">Contacto</string>
+    <string name="lavel_name">Nombre :</string>
+    <string name="lavel_email">Correo :</string>
+    <string name="lavel_phone">Telefono : </string>
+    <string name="button_text_callPhone">llamar</string>
+    <string name="button_text_listCompani">Lista Empresas</string>
+    <string name="title_activity_main3">Main3Activity</string>
+</resources>
